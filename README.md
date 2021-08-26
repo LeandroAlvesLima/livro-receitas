@@ -2,3 +2,5 @@
 
 Olá criaremos varias receitas
 
+* Estrogonofe de Frango
+* Carne Assada
